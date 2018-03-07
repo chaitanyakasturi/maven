@@ -7,6 +7,8 @@ public class Arraywithoutduplicatesstrings {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		//example java
 		String[] arr = {"chaitu","chai","chaitu","chai","chaitu","chaiy","chai","chaiy"};
 	     List<String> arrList = new ArrayList<String>();
 	     int cnt= 0;
